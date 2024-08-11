@@ -106,8 +106,8 @@ const openTransactionDetail = await tripay.openTransactionDetail({
 });
 ```
 
-NOTE:
-* Closed Transaction Payment Method List: 
+## Payment Method List
+### Closed Transaction
   - MYBVA
   - PERMATAVA
   - BNIVA
@@ -129,7 +129,7 @@ NOTE:
   - QRISC
   - QRISD
   - SHOPEEPAY
-* Open Transaction Payment Method List:
+### Open Transaction Payment Method List:
   - BNIVAOP
   - HANAVAOP
   - DANAMONOP
